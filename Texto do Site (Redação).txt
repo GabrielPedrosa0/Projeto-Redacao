@@ -1,0 +1,1174 @@
+Texto do Site (Redação)
+
+<!-- titulo -->Por que Escrever?<!-- titulo -->
+
+  Escrevemos algo quando queremos que esse algo se materialize e que seja lido por alguém.
+  Os motivos variam: cartas de amor, requerimentos formais, e-mails etc.
+  Independentemente dos objetivos, saber se expressar de forma objetiva, coerente é essencial.
+  Tenha sempre em mente que seu interlocutor (seu leitor) não estará ao seu lado, por isso uma má construção textual pode causar problemas de compreensão e, em caso de uma avaliação, pontos a menos.
+
+<!-- subtítulo -->POR QUE É TÃO COMPLICADO ESCREVER?<!-- subtítulo -->
+
+  O que você sente ao escrever (ou tentar escrever) um texto?
+  Deparar-se com um papel em branco e não sabe como organizar as ideias sobre determinado assunto algo que acontece com você com frequência?
+  Grande parte da humanidade (alfabetizada) já passou (ou passa) por isso.
+  É normal vacilar diante do papel, ou teclado, pois se parte de você que será colocada nas linhas do seu texto.
+  Escrever é deixar revelar.
+
+<!-- bloco colorido -->
+<!-- citação -->
+"O que escrevo aqui não são simples devaneios. Sou uma mulher do meu tempo, e dele quero dar testemunho do jeito que posso: soltanto minhas fantasias ou escrevendo sobre dor e perplexidade, contradição e grandeza; sobre doença e morte. Lamentando a palavra na hora errada e o silêncio na hora em que teria sido melhor falar."
+<!-- itálico -->Lya Luft - Perdas e ganhos.<!-- itálico -->
+<!-- citação -->
+<!-- bloco colorido -->
+
+<!-- bloco colorido -->
+<!-- citação -->
+"Escrever é procurar entender, é procurar reproduzir o irreproduzível, é sentir até o último fim o sentimento que permaneceria apenas vago e sufocador. Escrever é também abençoar uma vida que não foi abençoada."
+<!-- itálico -->Clarice Lispector<!-- itálico -->
+<!-- citação -->
+<!-- bloco colorido -->
+
+  Em muitos casos, a dificuldade de se escrever é uma consequência do desconhecimento da estrutura do texto e/ou do assunto a ser tratado.
+  Não existem fórmulas mágicas para se escrever bem. As- sim como grandes esportistas, bons escritores são produtos de anos dedicados à prática e ao aperfeiçoamento.
+  Muita leitura e prática são as dicas para quem pretende aprender a se expressar, bem, por meio da escrita.
+  Aqui veremos alguns tipos de textos e suas respectivas características estruturais.
+  Mas, antes de mencionar essas estruturas será necessário ver alguns conceitos.
+
+<!-- titulo -->DEFINIÇÃO DE TEXTO<!-- titulo -->
+
+<!-- subtítulo -->VOCÊ JÁ FOI A UMA TECELAGEM?<!-- subtítulo -->
+
+  Um tecido é formado pela junção de vários fios.
+  Podemos dizer que a produção de um texto (tem sua origem no verbo tecer) se assemelha a de um tecido. As palavras desempenham a função dos fios, às vezes leves outras vezes rústicos, que juntos formam uma unidade coesa.
+  De acordo com a linguística texto é "uma unidade linguística concreta (perceptível pela visão ou audição) que é tomada pelos usuários da língua (falante, escritor/ouvinte, leitor), em uma situação de interação comunicativa específica, como uma unidade de sentido e como preenchendo uma função comunicativa reconhecível e reconhecida, independentemente da sua extensão." <!-- itálico -->(Travaglia e Koch, 2000)<!-- itálico -->
+  Tenha esse conceito em mente, pois será retomado outras vezes.
+
+<!-- subtítulo -->COESÃO<!-- subtítulo -->
+  Para um texto ser coeso é preciso que esteja de acordo com as regras da gramática normativa.
+  O uso de conectivos (preposições e conjunções usa- das para unir as ideias apresentadas no seu texto), concordâncias e regências são necessários.
+
+<!-- tabela -->
+
+<!-- subtítulo -->TABELA DE CONECTIVOS:<!-- subtítulo -->
+
+Tipos de conectivos
+
+Exemplos
+
+Função
+
+Aditivos
+
+E, também, além disso, ainda.
+
+Adicionam ideias ao conteúdo Já apresentado.
+
+Adversativos
+
+Mas, porém, apesar de.
+
+Opõem-se às ideias apresentadas.
+
+Conclusivos, explicativos
+
+Então, logo, portanto, porque, afinal, enfim.
+
+Apresentar uma justificativa, explicação a uma ideia apresentada anteriormente.
+
+Restritivos
+
+Apenas, só, somente.
+
+Delimitar um aspecto de uma ideia.
+
+Comparativos
+
+Menor, maior, como, tão... quanto, melhor, pior.
+
+Estabelece a comparação entre ideias.
+
+Alternativos
+
+Ou, ou...ou, ora...ora.
+
+Propõem visões alternativas sobre determinada ideia
+
+Retificação
+
+Ou seja, isto é, ou melhor, quer dizer.
+
+Esclarece, retifica uma ideia apresentada anteriormente.
+
+<!-- tabela -->
+
+<!-- subtítulo -->COERÊNCIA<!-- subtítulo -->
+
+  Para que um texto seja coerente é preciso que tenha um sentido das ideias expostas. Um texto coerente não é, necessariamente, um texto coeso. Mas, um texto coeso precisa ser coerente.
+  É o caso dos poemas. Esses nem sempre obedecem às regras estabelecidas pela gramática normativa, porém são coerentes.
+
+<!-- bloco colorido -->
+<!-- lista -->
+Beba
+
+coca
+
+cola
+
+babe
+
+cola
+
+beba
+
+coca
+
+babe
+
+cola
+
+caco
+
+caco
+
+cola
+
+cloaca
+
+<!-- itálico -->Décio Pignatari<!-- itálico -->
+<!-- lista -->
+<!-- bloco colorido -->
+
+  Devido às permutações das palavras, percebe-se uma denúncia da imposição da propaganda, da massificação.
+
+<!-- subtítulo -->COMO OCORRE UMA COMUNICAÇÃO?<!-- subtítulo -->
+  Para haver uma comunicação é necessário que haja alguns elementos como: emissor, receptor, mensagem, canal de comunicação, referente e um código.
+
+<!-- subtítulo -->ESQUEMA DA COMUNICAÇÃO DE ROMAN JAKOBSON<!-- subtítulo -->
+
+  Fatores que entram em jogo quando se estabelece uma comunicação:
+
+<!-- tabela -->
+
+Fator
+
+Característica
+
+Função
+
+Característica
+
+Referente
+
+Situação com que se relaciona a mensagem.
+
+Referencial
+
+Visa à informação. Refere-se ao conteúdo da mensagem. Tem predominância de textos científicos, em mensagens científicas
+
+Emissor
+
+Emite a mensagem.
+
+Emotiva ou expressiva
+
+É o sentimento do "eu" (remetente) expresso na mensagem.
+
+Presença de pronomes e verbos em 1ª pessoa.
+
+Receptor
+
+Quem recebe a mensagem.
+
+Apelativa ou conativa
+
+A mensagem se concentra no destinatário.
+
+Mensagem
+
+Informação transmitida.
+
+Poética
+
+Presença de verbos no imperativo.
+
+Valorização da mensagem em si mesma, uso de recursos estilísticos.
+
+Canal
+
+Meio empregado no envio da mensagem.
+
+Fática
+
+Estabelecer, manter contato.
+
+Código
+
+Sistema de sinais empregado no envio da mensagem.
+
+Metalinguística ou Metalinguagem
+
+O código é o elemento mais importante.
+<!-- tabela -->
+
+  Numa comunicação todos os fatores entram em jogos, dessa forma, pode-se falar em predominância de uma deles, de arcodo com o tipo de mensagem.
+
+<!-- titulo -->VÍCIOS DE LINGUAGEM<!-- titulo -->
+
+pag: 172
+
+<!-- tabela -->
+
+pag: 173
+
+<!-- tabela -->
+
+<!-- subtítulo -->CACOETES DE LINGUAGEM<!-- subtítulo -->
+  Os cacoetes de linguagem são as expressões pobres de valor informativo, dispensáveis ao texto. Evite usá-las.
+
+<!-- bloco colorido -->
+Veja alguns exemplos:
+
+abrir com chave de ouro,
+
+antes de mais nada,
+
+aparar as arestas,
+
+ataque fulminante,
+
+a todo o vapor,
+
+avançada tecnologia,
+
+caminho já trilhado,
+
+chegar a um denominador comum,
+
+congestionamento monstro,
+
+consequências imprevisíveis,
+
+perda irreparável,
+
+pergunta que não quer calar,
+
+preencher uma lacuna,
+
+prejuízos incalculáveis,
+
+duras (pesadas) críticas,
+
+erro gritante,
+
+fortuna incalculável,
+
+gerar polémica,
+
+importância vital,
+
+inflação galopante,
+
+inserido no contexto,
+
+luz no fim do túnel,
+
+na vida real,
+
+no fundo do poço,
+
+os quatro cantos do mundo,
+
+requintes de crueldade,
+
+respirar aliviado,
+
+rota de colisão,
+
+ruído ensurdecedor,
+
+tirar uma resolução,
+
+via de regra.
+<!-- bloco colorido -->
+
+<!-- itálico -->Manual de redação da Folha de São Paulo<!-- itálico -->
+
+<!-- titulo -->AS QUALIDADES DE UM TEXTO<!-- titulo -->
+
+<!-- subtítulo -->CONCISÃO<!-- subtítulo -->
+
+<!-- lista -->
+
+Ir direto ao assunto;
+
+Não ficar "enrolando", "enchendo linguiça";
+
+Eliminar informações desnecessárias.
+
+<!-- lista -->
+
+<!-- subtítulo -->CLAREZA<!-- subtítulo -->
+
+<!-- lista -->
+
+Dispor as ideias de forma que possam ser entendi- das pelo leitor rapidamente;
+
+Ser coerente, não se contradizer;
+
+Não confundir o leitor,
+
+Evitar períodos longos e vocabulário rebuscado e vago.
+
+<!-- lista -->
+
+<!-- subtítulo -->CORREÇÃO<!-- subtítulo -->
+
+<!-- lista -->
+
+Utilizar a linguagem padrão, evitando gírias, regionalismos, neologismos;
+
+Grafar as palavras corretamente. Se houver dúvida e não for possível consultar um dicionário, substitua a palavra por outra;
+
+Atenção para a flexão das palavras, concordância entre os termos, regência de verbos e nomes, colocação pronominal e pontuação.
+
+<!-- lista -->
+
+<!-- subtítulo -->ELEGANCIA<!-- subtítulo -->
+
+Texto bem apresentável: limpo, sem rasuras e com letra legível;
+
+Conteúdo original, criativo.
+
+<!-- bloco colorido -->
+TIPOS DE TEXTOS
+<!-- bloco colorido -->
+  Cada tipo de texto tem uma estrutura própria. Temos três tipos de texto. São eles:
+
+<!-- lista -->
+Descrição
+
+Narração
+
+Dissertação
+<!-- lista -->
+<!-- bloquinho -->
+
+DESCRIÇÃO
+
+  Descrever é apontar as características de pessoas, objetos, ambientes ou fatos.
+  Observe as figuras abaixo e descreva suas características:
+
+(imagem: Mesa de Bar
+Emiliano Di Cavalcanti)
+
+(imagem: Mona Lisa, Leonardo da Vinci)
+
+  Que tipos de verbos e palavras você usou?
+
+  Observe o trecho abaixo:
+
+<!-- itálico -->
+"Ela era gorda, baixa, sardenta e de cabelos excessivamente crespos. Veio a ter busto enorme, enquanto nós todas ainda éramos achatadas. Como se não bastasse, enchia os bolsos da blusa, por cima do busto, com balas." Clarice Lispector, "Tortura e Glória" 
+<!-- itálico -->
+
+  Esse tipo de texto se caracteriza pela presença de adjetivos, advérbios, verbos de ligação, figuras de linguagem (metáforas, comparações, hipérboles etc.).
+
+<!-- subtítulo -->HÁ DOIS TIPOS DE DESCRIÇÃO<!-- subtítulo -->
+
+<!-- cor destaque -->Descrição objetiva<!-- cor destaque --> o observador faz a descrição de forma impessoal.
+
+<!-- cor destaque -->Descrição subjetiva<!-- cor destaque --> o observador faz uma descrição de acordo com suas impressões pessoais.
+
+<!-- titulo -->NARRAÇÃO<!-- titulo -->
+  Narrar é relatar fatos. Contar como esses fatos aconteceram (ou acontecerão).
+  Observe os desenhos a seguir e relate o que está acontecendo:
+
+[Imagem]
+
+Que tipo de verbos e palavras você usou?
+
+<!-- subtítulo -->LEIA O TEXTO ABAIXO:<!-- subtítulo -->
+  Uma donzela estava um dia sentada à beira de um riacho, deixou a água do riacho passar por entre seus dedos muito brancos, quando sentiu o seu anel de diamante ser levado pelas águas. Temendo o castigo do pai, a donzela contou em casa que fora assaltada por um homem no bosque e que ele arrancara o anel de diamante do seu dedo e a deixara desfalecida sobre um canteiro de margaridas. O pai e os irmãos da donzela foram atrás do assaltante e encontraram um homem dormindo no bosque, e o mataram, mas não encontraram o anel de diamante. E a donzela disse:
+  -Agora me lembro, não era um homem, eram dois. 
+  E o pai e os irmãos da donzela saíram atrás do segundo homem, e o encontraram, e o mataram, mas ele também não tinha o anel. E a donzela disse:
+  -Então está com o terceiro!
+  Pois se lembrava que havia um terceiro assaltante. E o pai e os irmãos da donzela saíram no encalço do terceiro as- saltante, e o encontraram no bosque. Mas não o mataram. pois estavam fartos de sangue. E trouxeram o homem para a aldeia, e o revistaram, e encontraram no seu bolso o anel de diamante da donzela, para espanto dela.
+  -Foi ele que assaltou a donzela, e arrancou o anel de seu dedo, e a deixou desfalecida - gritaram os aldeões.
+  -Matem-no!
+  -Esperem! - gritou o homem, no momento em que passavam a corda da forca pelo seu pescoço. -Eu não roubei o anel. Foi ela que me deu!
+  E apontou a donzela, diante do escândalo de todos.
+  O homem contou que estava sentado à beira do riacho, pescando, quando a donzela se aproximou dele e pediu um beijo. Ele deu o beijo. Depois a donzela tirara a roupa e pedira que ele a possuísse, pois queria saber o que era amor. Mas como era um homem honrado, ele resistira, e dissera que a donzela devia ter paciência, pois conheceria o amor do marido no seu leito de núpcias. Então a donzela lhe oferecera o anel dizendo: "Já que meus encantos não o seduzem, este anel comprará o seu amor." E ele sucumbira, pois era pobre, e a necessidade é algoz da honra.
+  Todos se viraram contra a donzela e gritaram: "Rameiral Impural Diaba!" e exigiram seu sacrifício. E o próprio pai da donzela passou a forca para o seu pescoço.
+  Antes de morrer, a donzela disse para o pescador:
+  -A sua mentira era maior que a minha. Eles mataram pela minha mentira e vão matar pela sua. Onde está, afinal, a verdade?
+  O pescador deu de ombros e disse:
+  -A verdade é que eu achei o anel na barriga de um peixe. Mas quem acreditaria nisso? O pessoal quer é violência e sexo, não histórias de pescador.
+<!-- itálico -->Luís Fernando Verissimo. "A Verdade"<!-- itálico -->
+
+  Verbos indicando ação, presença de algumas descrições, personagens, narrador, enredo, espaço, tempo.
+  Neste tipo de texto a presença de diálogos é frequente.
+
+<!-- subtítulo -->ELEMENTOS DA NARRATIVA<!-- subtítulo -->
+
+  Volte ao texto "A verdade" e identifique os elementos referentes à história:
+
+<!-- bloco colorido -->
+Quem a conta?
+
+Quem faz parte da narrativa?
+
+Onde e quando se passa?
+
+Sobre o quê fala? De quê forma?
+<!-- bloco colorido -->
+
+  Ao responder a essas perguntas você identificará os elementos da narrativa.
+
+<!-- cor destaque -->Veja:<!-- cor destaque -->
+
+<!-- cor destaque -->Personagem<!-- cor destaque --> - A pergunta "Quem faz parte da narrativa?" indica os personagens.
+  Os personagens (do latim persona que significa más cara de teatro) fazem parte da história, são a base da narrativa. Podem ser divididos em principais (quando estão diretamente ligados à narrativa) e secundários.
+
+<!-- bloco colorido -->
+No texto "A verdade":
+A donzela e o pescador são os personagens principais.
+Os demais personagens são secundários.
+<!-- bloco colorido -->
+
+  Um personagem pode ser:
+
+<!-- cor destaque -->Linear<!-- cor destaque --> - apresenta as mesmas características no de- correr da narrativa.
+  As personagens principais das narrativas de José de Alencar são exemplos de personagens lineares, ou seja, suas atitudes não causam surpresa ao leitor, são previsíveis.
+
+<!-- cor destaque -->Redondo ou esférico<!-- cor destaque --> - personagem complexo, suas atitudes variam no decorrer da narrativa, surpreendendo o leitor. As personagens principais das narrativas de Clarice Lispector são caracterizadas por sua complexidade, ou seja, são redondos.
+
+<!-- subtítulo -->OBSERVAÇÃO:<!-- subtítulo -->
+  Há personagens que não representam individualidades, mas sim tipos humanos, identificados antes pela profissão, pelo comportamento, pela classe social, enfim, por algum traço distintivo comum a todos os indivíduos dessa categoria, nesses casos, temos personagens caricaturais. Os personagens das obras de Gil Vicente representam tipos humanos de seu tempo: a alcoviteira, o aristocrata, o judeu etc.
+
+<!-- cor destaque -->Espaço<!-- cor destaque --> e <!-- cor destaque -->Tempo<!-- cor destaque --> - Onde e quando se passa?
+  Com essas perguntas situamos o texto num determinado período e lugar.
+
+<!-- negrito -->(Espaço é o lugar em que acontece a narrativa.)
+<!-- cor destaque -->Tempo cronológico<!-- cor destaque --> - os fatos são apresentados de do acordo com a ordem dos acontecimentos.
+<!-- cor destaque -->Tempo psicológico<!-- cor destaque --> - interior, aquele que transcorre dentro das personagens, marcado pela ação da memória, das reflexões.
+
+<!-- bloco colorido -->
+  No texto "A verdade" o tempo é cronológico, a historia se passa na Idade Média num ambiente (espaço) campestre (riacho, bosque) e a aldeia.
+<!-- bloco colorido -->
+
+<!-- cor destaque -->Narrador<!-- cor destaque --> - Ao responder "Quem a conta?" identificamos o foco narrativo, ou melhor, o tipo de narrador.
+
+  Temos três tipos de narrador:
+
+<!-- lista -->
+Narrador personagem
+
+Narrador em 3ª pessoa
+
+Narrador onisciente ou intruso
+<!-- lista -->
+
+<!-- bloco colorido -->
+ No texto "A verdade" o narrador é de 3ª pessoa
+<!-- bloco colorido -->
+
+<!-- cor destaque -->Enredo<!-- cor destaque --> - Sobre o que fala? De que forma? Com essas perguntas descobrimos o enredo da narrativa.
+  Vale ressaltar que o enredo é a história em si, são as ações dos personagens.
+
+<!-- subtítulo -->APRESSENTA A SEGUINTE ORGANIZAÇÃO<!-- subtítulo -->
+
+<!-- cor destaque -->Cotidiano<!-- cor destaque --> - <!-- negrito -->(surgimento de um problema - clímax - desfecho.)<!-- negrito -->
+
+ O <!-- cor destaque -->desfecho<!-- cor destaque --> acontece de várias formas. Pode ser:
+  feliz, triste, trágico, cômico, aberto ou inusitado No texto "A Verdade" temos:
+
+<!-- lista -->
+<!-- cor destaque -->cotidiano<!-- cor destaque --> - A donzela passeia pelo campo e para em um riacho:
+
+<!-- cor destaque -->surgimento de um problema<!-- cor destaque --> - a perda do anel de diamantes;
+
+<!-- cor destaque -->clímax<!-- cor destaque --> - a recuperação do anel, a mentira contada pelo pescador,
+
+<!-- cor destaque -->Desfecho<!-- cor destaque --> - a condenação da donzela à morte. Podemos classificar o desfecho dessa história como Inusitado, uma vez que a condenação da donzela não era um fato esperado.
+<!-- lista -->
+
+<!-- subtítulo -->A NARRAÇÃO E OS TIPOS DE DISCURSO<!-- subtítulo -->
+  Na narrativa temos três tipos de discurso:
+
+<!-- cor destaque -->Direto:<!-- cor destaque --> a narrativa se desenrola com a fala direta dos personagens.
+
+"Antes de morrer, a donzela disse para o pescador:
+
+- A sua mentira era maior que a minha. Eles mataram pela minha mentira e vão matar pela sua. Onde está, afinal, a verdade?
+
+O pescador deu de ombros e disse: -A verdade é que eu achei o anel na barriga de um peixe. Mas quem acreditaria nisso? O pessoal quer é violência e sexo, não histórias de pescador."
+
+<!-- cor destaque -->Indireto:<!-- cor destaque --> neste tipo de discurso a narrativa é relatada por alguém, que observa os fatos.
+
+<!-- itálico --> 
+"Uma donzela estava um dia sentada a beira de um riacho, deixou a água do riacho passar por entre seus dedos muito brancos, quando sentiu o seu anel de diamante ser levado pelas águas. Temendo o castigo do pai, a donzela contou em casa que fora assaltada por um homem no bosque e que ele arrancara o anel de diamante do seu dedo e a deixara desfalecida sobre um canteiro de margaridas." 
+<!-- itálico -->
+
+<!-- cor destaque --> Discurso indireto livre. <!-- cor destaque --> No discurso indireto, o narrador toma a palavra para reproduzir a fala de seus personagens. No discurso indireto livre, ocorre a fusão da voz do narrador (em terceira pessoa) com a voz da personagem (em primeira pessoa). Esse recurso é empregado para mostrar o universo interior das personagens, seus pensamentos e anseios. No romance Vidas Secas (1938), o escritor Graciliano Ramos emprega esse recurso, como no trecho:
+
+<!-- itálico -->"Entristeceu. Considerar-se plantado em terra alheia! Engano."<!-- itálico -->
+
+<!-- subtítulo -->OBSERVAÇÕES:<!-- subtítulo -->
+  Há verbos que se caracterizam por introduzir a fala do personagem, ou mesmo explicar quem está a fazer a afirmação registrada depois do travessão, Denominam- se verbos de elocução e alguns exemplos deles são: falar, perguntar, responder, indagar, replicar, argumentar, pedir, dizer, comentar, afirmar etc.
+  No discurso indireto livre não há verbos de elocução.
+<!-- subtítulo --> TEXTO JORNALÍSTICO<!-- subtítulo -->
+  O texto jornalístico é a narração sobre fatos reais. Objetividade é a palavra-chave desse tipo de texto.
+  Um bom texto jornalístico deve responder as seguintes questões sobre um fato:
+
+<!-- bloquinho --> <!-- estilo poema --> <!-- itálico -->
+O quê? (assunto)
+
+Quem? (personagens)
+
+Onde? (lugar)
+
+Quando? (tempo)
+
+Como aconteceu?
+
+Por quê?
+<!-- bloquinho --> <!-- itálico -->
+
+<!-- cor destaque -->Veja um exemplo:<!-- cor destaque -->
+<!-- cor destaque -->TJ absolve Sérgio Naya e engenheiro por desabamento do Palace 2<!-- cor destaque -->
+<!-- itálico -->da Folha Online<!-- itálico -->
+
+<!-- bloco -->
+  A 7ª Câmara Criminal do TJ (Tribunal de Justiça) do Rio absolveu nesta terça-feira o ex-deputado Sérgio Naya e engenheiro Sérgio Murilo Domingues do crime de responsabilidade pelo desabamento do edifício Palace 2, ocorrido em 22 de fevereiro de 1998, na Barra da Tijuca (zona sul do Rio). Oito pessoas morreram. A decisão foi adotada por cinco votos a zero.
+
+[imagem: O ex-deputado Sergio Naya]
+
+  A decisão manteve a sentença proferida em maio de 2001 pela 33ª Vara Criminal e anulou o acórdão da 5ª Câmara Criminal que, em dezembro de 2002, acatou parcialmente um recurso do Ministério Público e os condenou a dois anos e oito meses de prisão em regime semiaberto. A pena poderia ser revertida em prestação de serviços comunitários e pagamento de multa.
+  Segundo o TJ, os desembargadores concluíram que, ao apelar da sentença, os promotores desrespeitaram o Código de Processo Penal e alteraram a classificação do crime de desaba mento doloso ou seja, o imóvel teria sido feito para cair - para culposo- teria havido negligência, desatenção e descaso.
+  A relatora do processo, desembargadora Elizabeth Gregory, entendeu que a alteração não pode ocorrer em segunda instância pois "ofende o principio da correlação entre a denúncia e a sentença" e impede o trabalho da defesa;
+  Para ela, os laudos periciais também não permitem afirmar que os réus tenham "dado causa à queda do edifício", ainda segundo o TJ. Um dos laudos apresentaria como causa do desabamento um erro de cálculo que foi atribuído ao projetista, enquanto o outro não demonstra convicção.
+<!-- bloco -->
+
+<!-- bloco colorido -->
+<!-- cor destaque -->Assunto<!-- cor destaque --> - Tribunal decide que Naya não pode ser responsabilizado por queda do edifício do Palace 2.
+
+<!-- cor destaque -->Personagens<!-- cor destaque --> - Sérgio Naya, Sérgio Murilo Do- mingues, Tribunal de Justiça do Rio, desembargadora Elizabeth Gregory.
+
+<!-- cor destaque -->Onde<!-- cor destaque --> - Rio de Janeiro.
+
+<!-- cor destaque -->Quando<!-- cor destaque --> - 10 de junho 2005.
+
+<!-- cor destaque -->Como aconteceu?<!-- cor destaque --> - Por cinco votos a zero Naya e o engenheiro Domingues foram absolvidos do crime de desabamento do Edifício Palace 2, em fevereiro de 1998.
+
+<!-- cor destaque -->Por quê?<!-- cor destaque --> - Segundo os laudos, os acusados não seriam responsáveis pela queda do prédio.
+<!-- bloco colorido -->
+
+<!-- titulo -->DISSERTAÇÃO<!-- titulo -->
+  Quantas vezes você já precisou defender suas ideias: para provar que seu time de futebol é o melhor, para convencer seus pais a deixarem você ir "aquela" festa ou fazer aquela viagem; provar para o namorado(a) que não era você "aquele" dia "naquele" bar com "aquele(a) garoto(a) etc.
+  O ato de argumentar é inerente ao ser humano. Estamos o tempo todo, mesmo de forma inconsciente, impondo nossas ideias e vontades. Neste exato momento, por exemplo, estou tentando convencê-lo de que argumentar é algo natural.
+  Mas, se é algo natural por que, às vezes, é tão complicado escrever um texto argumentativo?
+  Volto às questões: desconhecimento da estrutura de texto e do assunto a ser tratado.
+  Escrever, também, requer prática.
+  Você já conhece a estrutura do texto descritivo e narrativo. Agora, vamos estudar sobre o texto dissertativo.
+
+<!-- cor destaque -->Dissertar<!-- cor destaque --> é expor uma ideia de forma objetiva (predomínio da função referencial).
+  Nesse tipo de texto você poderá expor sobre um determinado assunto, pontuando seus vários aspectos sem aderir a nenhum deles, ou escolher um determinado aspecto de um assunto e defendê-lo.
+  A esse último tipo de texto damos o nome de argumentativo.
+
+<!-- subtítulo -->Tiros DE ARGUMENTO<!-- subtítulo -->
+  Um argumento pode ser baseado em:
+
+<!-- bloco colorido -->
+<!-- cor destaque -->Citação<!-- cor destaque --> - frase ou pensamento de autores, autoridades conhecidos ou não.
+
+<!-- cor destaque -->A Questão da Pena de Morte<!-- cor destaque -->
+
+<!-- negrito -->"Quantas martes ainda serão necessárias para que se saiba que já se matou demais?"<!-- negrito -->
+<!-- itálico -->Bob Dylan<!-- itálico -->
+<!-- bloco colorido -->
+
+[imagem]
+(descrição da imagem: O Fuzilamento, Goya 1808
+ Goya retratou a atrocidade da prática do fuzilamento no século XIX, na Espanha. A pena de morte, em a diversas formas de execução, barbarizam o mundo e levantam discussões até os dias de hoje.)
+
+  O simplismo de considerar a defesa dos direitos humanos como a defesa de direitos de criminosos tem de ser desmascarado. Aqueles que defendem o direito à vida de todos, de todos sem exceção, não podemos ser confundidos com criminosos ou defensores de suas posturas, O que almejamos mesmo é o fim da barbárie e do ódio.
+  O Estado brasileiro falha diante de seus cidadãos, do berço à sepultura. Más condições de educação e saúde, de moradia, de sobrevida material mesmo, acabam por reduzir o ser humano à situação desesperadora de louco desviante em muitos casos. Há muita gente desesperada por providenciar sua sobrevivência e a dos seus, ainda que para isso tenha de romper com as normas sociais vi gentes. Se o Estado brasileiro é o maior responsável pela elevação no índice de criminalidade, particularmente tendo em vista a brutal e dificilmente equiparável, em escala planetária, concentração de renda, o Estado brasileiro carece de condições morais para dizer "quem tem o direito à vida (assegurado na Constituição, por sinal) e quem, por seus crimes, deve ser apenado com a perda deste direito humano básico", até porque o juízo humano é falho, a pena de morte é uma punição evidentemente imersível e o "exemplo deve vir sempre de cima, jamais dos desesperados. Montar uma fábrica de desesperados para solucionar", montar uma máquina de extermínio de desesperados não me parece racional. É coisa parecida "Solução Final" dos nazistas...
+  Como e neocolonialismo nos colocou sob a órbita de influencia dos EUA, muitos apreciam citar aquela Nação como exemplo a ser seguido. Talvez a proposta seja válida para alguns casos, mas especificamente na esfera dos direi humanos, há muito pouco a aprender com os ianques. 
+  Os EUA são a única Nação do primeiro mundo em que este crime medieval é praticado com o beneplácito do aparelho judiciário. Mas a justiça norte-americana tem se equivocado em diversos casos de pena à morte. Alguém poderia contra-argumentar que o aparelho judiciário cara brasileiro seria superior e não cometeria falhas Será? Somos todos humanos, sujeitos a falhas. Deve se considerar, também, que para ser superior o aparelho judiciário brasileiro teria que passar por inúmeras reformas, sendo assim, a implantação da pena de morte entraria em vigor no mesmo período das comemorações de 1.000 anos de descobrimento do Brasil.
+
+<!-- bloco colorido -->
+<!-- cor destaque -->Senso comum<!-- cor destaque --> - têm-se como base os valores partilhados pela maioria da sociedade.
+
+<!-- cor destaque -- Matar ou não matar:<!-- cor destaque --> 
+
+<!-- itálico -->Eis a questão<!-- itálico -->
+<!-- bloco colorido -->
+
+  Na discussão a respeito da conveniência ou não da instituição da pena de morte para punir delinquentes que cometam delitos atrozes, há uma pergunta que necessita ser feita aos que defendem o castigo capital: qual a reação adequada quando um crime hediondo é perpetrado pelo próprio Estado?
+  Sabem todos que têm conhecimento da realidade internacional, que em inúmeros países o nível de violação dos direitos humanos chega as raias da insanidade, Indivíduos que nunca propugnaram pela violência são sumariamente executados pelas forças de segurança, tão se pela divulgação de suas ideias, políticos oposicionistas que jamais advogaram o uso da força são detidos, torturados e mortos sem qualquer julgamento, pessoas que se destacam nas lutas pacificas pela melhoria das condições denta deras lutas comunidades, são sequestradas à luz do da e desaparecem para sempre.
+  Na maioria absoluta dos casos a responsabilidade Estado, conquanto notória, não e judicialmente apurado Somente vez por outra, por descuido do poder ou pela alteração do quadro institucional de um pais, a verdade vem à tona e o crime oficial é aclarado. Mas, e al, quando o fato se torna público ou não mais pode ser ocultado, o que fazer? Eliminar o funcionário "zeloso que sob ordens praticou a atrocidade? Enforcar seus superiores? Decapitar o governante? Destruir o Estado, para que não repita o ato? Ou nesses casos é suficiente indenizar a família da vitima com trinta moedas e esquecer o passado, como normalmente se faz?
+  Não há por que matar o delinquente, seja ele o cidadão ou o Estado. Como afirmou corretamente Cesare Beccaria, famoso penalista italiano, não é a crueldade da pena que inibe o criminoso, mas sim a crença de que ela será infalivelmente aplicada. Confiando-se que todos os delitos serão punidos de forma honesta, a criminalidade - inclusive a do "colarinho branco", que indiretamente ceifa mais vidas do que a marginal - diminuirá.
+  A pena de morte, utilizada como meio de proteção da sociedade, é comprovadamente desnecessária, usada como método de vingança, è embrutecedora e reacionária. Um simples exame da história da pena capital de monstra o esforço que o homem vem fazendo há séculos para erradicá-la, seja através da diminuição gradativa de número de delitos puníveis com a morte, reja através da tentativa de suavizar os progressos das execuções
+  Do olho por olho, dente por dente", da Lei de Talião, saltamos para as fogueiras da Idade Média. Das mutilações e torturas que precediam o enforcamento das plebeus franceses, alcançamos a guilhotina instituída pela revolução burguesa de 1789. Do garrote vil espanhol, que aos poucos quebrava a espinha dos condenados, atingimos o pelotão de fuzilamento. Da cadeira elétrica que descarrega dos mil volts sobre o corpo do sentenciado durante períodos alternados, chegamos à injeção letal aplicada aos norte-americanos penalizados com a morte
+  A pena de morte tem progredido se assim se pode dizer não só no concernente às formas pelas quais ela é posta em prática, mas também em relação à natureza dos delitos e ao tipo dos criminosos passiveis de conde nação à morte. Se atualmente em algumas poucas nações mulheres adulteras ainda são apedrejadas até que a vida se lhes acabe, na maioria apenas homicidas cruéis são levados ao patíbulo. Se no alvorecer do primeiro milênio cristãos eram jogados aos leões para divertimento dos cidadãos de Roma, e se dava fim aos desequilibrados mentais por serem julgados endemoniados, hoje a maior par- te dos ordenamentos penais existentes no mundo veda a aplicação da pena de morte a prisioneiros de consciência, a menores, a anciãos, a mulheres grávidas ou que acabem de dar à luz, a pessoas mentalmente enfermas.
+  O empenho que o ser humano vem fazendo a centenas de anos para aprimorar o Direito, justificando sua condição de animal inteligente, é comprovado claramente pela contínua e definitiva restrição que as normas legais vigentes vêm fazendo à vingança pessoal ou estatal.
+
+<!-- itálico -->Carlos Alceu Machade<!-- itálico -->
+<!-- itálico -->Vice Presidente da Seção Brasileira da Anistia Internacional<!-- itálico -->
+
+<!-- bloco colorido -->
+<!-- cor destaque -->Evidências<!-- cor destaque --> - pesquisas, dados estatísticos.
+
+<!-- cor destaque -->Pena de Morte:<!-- cor destaque -->
+
+A Justiça no Limite da Racionalidade
+<!-- bloco colorido -->
+
+  A pena de morte é um assunto que vem suscitando grandes polêmicas não apenas entre os juristas, envolvendo presidentes e até o papa. Essa polêmica já existe há séculos e nunca se chegou a uma unanimidade e talvez nunca se chegue, mas a partir do século XIX, houve mais engajamento para que a pena de morte fosse totalmente abolida de todos os ordenamentos jurídicos.
+  Muitas pessoas se posicionam contra ou a favor da pena de morte, mas não sabem justificar com exatidão a posição que assumem. Tive um professor que dizia que é difícil saber com exatidão se somos contra ou favor da pena de morte, enquanto não trabalharmos com a escória.
+  Será justo que um Estado puna com a morte alguém que cometeu um homicídio?! Não estaríamos voltando å velha máxima "olho por olho, dente por dente". Então não é crime se matarmos com a autorização do Estado?
+  Com a aplicação dessa pena, muitos inocentes já foram sacrificados, não seria mais justo deixar um culpado solto, que matar um inocente? Existem pessoas que se posicionam contra isso, dizendo que é melhor um inocente preso, que um bandido; em que mundo estamos onde a vida passa a ter pouco valor?
+  Os EUA é o campeão em aplicação de penas de morte e consequentemente o país que comete mais erros de justiça, só que infelizmente muitas vezes essa constatação chega tarde demais e o valor da indenização nunca serve para abrandar o sofrimento da família, pois o dinheiro nunca poderá trazer de volta o pai, filho, irmão, amigo... que se foi. Nos EUA, Pelo menos 360 pessoas condenadas à mor- , entre 1900 e 1985, conseguiram provar a sua inocência, só que para 25 a inocência foi provada tarde demais.
+  Diante de tudo isso surge um novo problema; nos países em que não existe a prisão perpétua, como por exemplo no Brasil, onde a pena máxima são 30 anos, o que fazer com as pessoas que têm de ser libertadas, porque já cumpriram a sua pena, mas não têm condições de voltar ao convívio social, pois afirmam que se forem libertados continuarão a matar. Talvez a solução esteja em ocupar o preso durante o tempo em que estiver na prisão e ir enquadrando ao convívio social aos poucos, arranjando trabalho fora das prisões para aqueles que estiverem com a pena quase no fim, mas esse trabalho não dará resultados se a sociedade não contribuir. Deviam ser oferecidos cursos profissionalizantes, ter uma biblioteca à disposição e muitos outros programas, para que os presos tivessem o seu tempo e também a cabeça ocupada.
+  A Assembleia Nacional de Cuba aprovou a pena de morte (que é aplicada por fuzilamento) para os crimes de narcotráfico e outros considerados graves (assassinatos, violações, roubos violentos), depois que o presidente Fidel Castro solicitou que os crimes no país fossem castiga dos com mais severidade, porque os casos de delinquência estavam aumentando visivelmente, ameaçando deste modo a segurança da sociedade socialista cubana.
+  Os que são contrários à pena de morte argumentam que a criminologia e as estatísticas provam que a existência da pena de morte não reduz os crimes punidos com essa pena, e geralmente os que sofrem com a aplicação dela são os mais desfavorecidos, uma vez que não possuem condições para arranjar um bom advogado e os advogados do Estado muitas vezes nem se preocupam em verificar se o seu cliente é realmente culpado ou não, e além do mais a pena de morte não soluciona os problemas de segurança. Os que defendem a sua aplicação argumentam que o criminoso é um degenerado irrecuperável e que ficando preso para sempre só estaria gastando dinheiro do Estado e que a melhor solução seria matá-lo, poupando dinheiro dos contribuintes. 
+  Atualmente existem 64 países que aboliram a pesa de morte e incluindo aqueles que já não a aplicam há mais de 10 anos, esse número sobe para 103, mas esse número ainda é pequeno se formos verificar que apesar de serem em número inferior, ainda existem muitos países que a aplicam, são 91 no total 
+  A pena de morte aumentou em alguns países, entre eles a China (85%), Ucrânia, Rússia e lrã. Desde que essa pena foi reintroduzida nos EUA em 1976, 1997 foi o ano mais trágico atingindo um recorde de 74 execuções.
+  A pena de morte é uma crueldade não apenas para o preso, mas também para sua família; além da aplicação da pena, o preso às vezes fica anos esperando que a execução seja cumprida, o que acaba desgastando o preso e a sua família. Essa pena muitas vezes afeta também os funcionários da prisão e os encarregados de cumprir a sentença.
+  Até hoje não conseguiu provar-se que a aplicação da pena de morte diminui os índices de criminalidade, uma vez que se verifica que os países que a aplicam tem porcentagens de crimes superiores às dos países que a aboliram. O Canadá é um grande exemplo, o índice de criminalidade em 1993 diminuiu em 27% depois que a pena de morte foi abolida, o que não se verificava nos anos em que a pena de morte ainda vigorava.
+  Se houvesse mais igualdade social, talvez os índices de criminalidade diminuíssem; claro que isso só se verificaria a longo prazo, mas nos proporcionaria resultados mais duradouros e definitivos.
+
+<!-- itálico -->Massinga Dias ( Bacharel em Direito )<!-- itálico -->
+<!-- itálico -->Colunista da Muangolê Noticias<!-- itálico -->
+
+<!-- bloco colorido -->
+<!-- cor destaque -->Raciocínio lógico<!-- cor destaque --> - estabelece-se uma relação de causa e consequência sobre determinado assunto.
+<!-- cor destaque -->CRIME E CASTIGO<!-- cor destaque -->
+<!-- bloco colorido -->
+
+
+  Devemos ser contra à pena de morte por cinco razões uma de ordem intrínseca, uma de ordem pragmática, duas de ordem intrínseca e uma de ordem histórica.
+  A razão de ordem intrínseca é que uma pena irreparável só pode ser decretada por um tribunal infalível. Daí ser logicamente compreensível que Deus, por definição e que nos deu a vida, também nos pode dar a morte. E, pelo contrário, seja ilógico que nós possamos legitimamente suicidar ou condenar qualquer pessoa à morte. Esta é sem dúvida irreparável. Toda sentença à morte é substancialmente incorrigível, quanto aos seus efeitos. Por outro lado, todo juízo humano, individual ou coletivo, é falível. Pode errar. Se pronunciar uma penalidade reparável, as consequências de sua sentença podem ser corrigidas. Mas se decretar uma pena irreparável será impossível conter ou atenuar suas consequências. E seu resultado será uma injustiça monstruosa, se houver erro judiciário. Por isso considero a pena de morte, em si, logicamente inaceitável. E não há razões práticas que possam, em sã consciência, justificar erros doutrinários. Nem mesmo as razões do coração podem alterar a verdade intrínseca das razões da inteligência. Podemos, quando muito, compreende-las. Não sobrepô-las. Só há uma soberania absoluta: a natureza das coisas. Como diz Etienne Gilson: "este é o tribunal supremo a que devemos recorrer em nossas dissidias humanas". A pena de morte atenta, contra razões especulativas que derivam da natureza das coisas. Primeira razão pela qual se deve rejeitá-la.
+  A Segunda razão é de ordem pragmática. A pena de morte, dizem os seus defensores que os há e dos mais Ilustres teólogos, filósofos, moralistas e estadistas, tanto é difícil lidar com problemas de vida e morte - é uma legitima defesa do individuo e da sociedade.
+  Não se nega que possamos matar em legitima defesa. E que seja até justificável a guerra justa, por mais que a monstruosidade técnica dos modernos armamentos e a complexidade das causas que levam à guerra tornem dificílima a classificação de uma guerra como justa ou injusta. Mas não é disso que estamos tratando. Na defesa individual nada de mais legitimo do que dar a morte a alguém para defender a nossa vida ou a daqueles cuja vida temos o dever de defender. Mas o que é duvidoso é que essa modalidade de punição, oficializada na maioria ou pelo menos em numerosas nações, alcance realmente os fins a que se destina. Quais são esses fins? Suprimir consideravelmente a criminalidade. Antes de tudo, pode haver uma remota analogia, mas nunca equiparação entre a morte que possamos provocar em legitima defesa e a que provocamos pela aplicação desse tipo de penalidade.
+  Quando matamos em legitima defesa autêntica, fazemo-lo involuntariamente. Quando matamos pela de cretação de uma sentença fazemo-lo voluntariamente. O primeiro é um ato natural e imprevisto, provocado pelo Instinto de conservação. O outro é um ata pensado e fria mente executado. O primeiro é consecutivo a um ataque sofrido, a um crime cometido. O segundo antecipa à consequência que possa prover de deixar em vida um elemento reconhecidamente insociável. Só por analogia remota podemos falar em legitima defesa social no caso da pena de morte
+  Além disso, como íamos dizendo, nada de mais contestável do que os resultados práticos da pena de morte. Nenhum dos países onde impera a pena de morte conseguiu, por meio dela, eliminar a criminalidade. Ou mesmo reduzi-la. O único argumento empregável é uma hipótese seria ainda pior sem ela. Mas acaso é legitimo dispor da vida alheia simplesmente na base de raciocínios hipotéticos? Pode ser que sim. Pode ser que não. O fato positivo é que o crime entrou na história da humanidade desde que Caim matou Abel. Isto é, desde que o mal matou o bem. E a espécie humana se dividiu entre inocentes e culpados. Como mero de impedir a repetição desse crime original, consignado nas Sagradas Escrituras, todos os Estados, mais ou menos civilizados, adotaram essa punição. E o resultado?
+  A pena de morte não pode ser defendida, legitima mente por motivos pragmáticos, porque não alcançou até hoje, em todas as nações que a aplicaram, o resultado desejável. Tomemos para exemplo a mais poderosa e bem organizada das nações modernas os Estados Unidos. A pena de morte sempre existiu em sua legislação. A inflexibilidade de dos seus juízes em sua aplicação se tornou proverbial, E casos houve, como o de Sacco e Vanzetti, da nossa mocidade, que abalaram a consciência da humanidade inteira, sem conseguir abrandar a implacabilidade da lei.
+  A Lamosa sentença de Joseph de Maistre, em outras palavras, que o carrasco é o companheiro inseparável de uma sociedade bem organizada, foi sempre levada ao pé da letra pela nação mais poderosa e bem organizada do mundo. Logicamente, ou antes, pragmaticamente, a criminalidade desse pais deveria decrescer na razão direta da aplicação de uma penalidade tão convincente e efetiva.
+  Ora, o que nos informam os documentos oficiais mais recentes é precisamente o oposto. Eis o que consta do ultimo <!-- itálico -->Uniform Crime Reports do Federal Bureau of Investigation<!-- itálico -->, o mais que famoso FBI, divulgado no dia 13 de agosto último, pelo seu diretor J. Edgar Hoover, e resumido no número 25 de agosto do <!-- itálico -->U.S. News World Report<!-- itálico -->, pag, 6/32.
+  "A probabilidade de que um americano seja vitima de um crime este ano é de 1 para 50, o dobro do perigo que corria há nove anos pastados. O crime em nosso palam de que duplicou em volume - aumentando de 122% - entre 1960 e 1968. 50 em 1968 aumentou mais 17,5%. Nos primeiros três meses de 1968 aumentou mais 10%. O crimes estão crescendo 11 vezes mais depressa do que a população. Enquanto o número de crimes cresceu, nesse período, 122%, a população só cresceu 11%. Assim é que a atual proporção de crimes o número de crimes graves por 100 mil habitantes- subiu 99%... O relatório menciona na um total de quase 4,5 milhões de crimes vários, no ano passado, incluindo 13.650 assassinatos, 31.600 estupra e 282.400 casos de assaltos a mão armada... Os assaltos a banco subiram 302% desde 1960... Em 1968 as grandes cidades sofreram o maior aumento de criminalidade, 18%, em relação a 1967. 
+  E por ai afora. E o curioso é que vários altos funcionários da Educação, comentando o aumento de vandalismo, longe de patrocinarem o aumento das penalidades, o que recomendaram é a organização comunitária de defesa, das <!-- itálico -->community residentes<!-- itálico -->, que deu excelentes resultados em Rochester, Nova Iorque.
+  O que no caso nos interessa é a verificação de que a pena de morte, em ação mais que secular nos Estados Uni dos, não foi capaz até hoje sequer de manter o mesmo nível de criminalidade. Já não falo em reduzi-la ou suprimi-la, o que toca as ralas da utopia.
+  Será por esse motivo que a Inglaterra já suprimias está por suprimir a pena de morte, reconhecendo a na ineficácia prática?
+  Da Rússia não temos noticias, Conhecemos apenas a implacabilidade dos expurgos e o terrorismo cultural de que Kuznetsov nos deu, recentemente, o mais clamoroso dos testemunhos. Há tempos, um repórter estrangeiro estranhou a pobreza das instalações judiciárias de Moscou E um informante oficial explicou que assim era porque es breve não seriam mais necessárias grandes instalações de justiça, já que o crime desapareceria com a aplicação pra dativa do sistema comunista.
+  Não que os defensores da pena de morte tenham a seu respeito as mesmas utópicas ilusões desses cândidos crentes nas virtudes mirificas do comunismo... Por ora, os regimes totalitários continuam a aplicar a pena de morte como sendo a mais normal e eficaz das medicinas socia.
+  Mas as estatísticas de uma nação realmente democrática como os Estados Unidos, onde os direitos das conde nados pelos crimes mais hediondos, como o do matador das enfermeiras de Chicago, são tão, exasperadamente, respeitados. Essas estatísticas nos demonstram positiva- mente que o argumento da legítima defesa social é extremamente frágil.
+  Em nenhum país do mundo a pena de morte impediu, e nem mesmo evitou o aumento de toda espécie de criminalidade. Eis por que não se aceita o argumento pragmático em sua defesa.
+
+<!-- itálico -->Tristão de Athayde<!-- itálico -->
+<!-- itálico -->Pensador cristão brasileiro, membro atuante da Igreja junto à Ação católica.<!-- itálico -->
+<!-- itálico -->falecido em 14 de agosto de 1983<!-- itálico -->
+
+<!-- subtítulo -->ESTRUTURA DE UMA DISSERTAÇÃO<!-- subtítulo -->
+  O texto dissertativo obedece à seguinte estrutura:
+
+<!-- bloco colorido -->
+<!-- cor destaque -->Introdução<!-- cor destaque --> - apresentação do tema que irá ser exposto ou defendido.
+
+<!-- cor destaque -->Desenvolvimento<!-- cor destaque --> - como o próprio nome diz é o desenvolvimento, explicação das ideias escolhidas
+
+<!-- cor destaque -->Conclusão<!-- cor destaque --> - fechamento das ideias que foram discutidas ao longo do texto.
+
+OBSERVAÇAO:
+  Não há textos exclusivamente narrativos, descritivos ou dissertativos. Essa classificação se dá por predominância de algumas características de um determinado tipo de texto.
+<!-- bloco colorido -->
+
+  Lesa o trecho abaixo:
+
+<!-- bloco colorido -->
+[...]"as vezes o amor acaba como se fora melhor nunca ter existido, mas pode acabar com doçura e esperança, numa palavra, muda ou articulada, e acaba o amor; na verdade; o álcool, de manhã, de tarde, de noite, na floração excessiva da primavera, no abuso do verão; na dissonância do outono, no conforto do inverno; em todos os lugares o amor acaba, a qualquer motivo o amor acaba; para recomeçar em todos os lugares e a qualquer minuto o amor acaba."
+<!-- bloco colorido -->
+
+<!-- itálico -->Paula Mendes Campos, O amor acaba<!-- itálico -->
+
+  Esse trecho é uma crônica. A crónica é um tipo de texto que geralmente è caracterizado por uma linguagem objetiva, no entanto, como no trecho citado, pode apresentar características líricas.
+  O contrário também acontece.
+  Veja a poema abaixo
+
+<!-- bloco colorido -->
+"João Gostoso era carregador de feira livre e marava no marro da Babilônia num barracão sem número
+ Uma noite ele chegou no bar Vinte de Novembro
+ Bebeu
+ Cantou
+ Dançou
+ Depois se atirou na lagoa Rodrigo de Freitas e morreu afogado
+<!-- bloco colorido -->
+
+<!-- itálico -->Manuel Bandeira, Poema tirado de uma noticia de jornal.<!-- itálico -->
+
+  Um poema é caracterizado pelo seu tom lírico e sua preocupação com a disposição das palavras. No entanto, pode assumir um tom narrativo, como no poema de Bandeira, cita do acima, que relata um fato a morte de João Gostoso.
+  Como já foi dito, não existem fórmulas mágicas para se aprender a escrever, mas existem estruturas e algumas técnicas que podem ser úteis na elaboração de textos.
+
+<!-- subtítulo -->NÃO SE ESQUEÇA:<!-- subtítulo -->
+
+  Saiba tirar proveito de seus erros.
+  A obediência às regras da Gramática Normativa é apenas um aspecto a ser considerado, não é tudo.
+  Leia bastante e sobre tudo.
+  Para ser um bom escritor é necessário ser um bom leitor. Só escrevemos sobre aquilo que conhecemos.
+  Não há verdades na dissertação.
+  Não generalize suas opiniões.
+
+  Veja a seguir 2 modelos de redação:
+
+<!-- cor destaque -->Modelo 1<!-- cor destaque -->
+
+1. Escreva um texto dissertativo em três parágrafos, dando sua opinião sobre corrupção:
+
+<!-- bloco colorido -->
+A - Introdução ponha a sua opinião. Apresente os aspectos gerais do tema.
+
+B - Desenvolvimento: justifique sua opinião. Neste ponto, você irá discutir o que foi apresentado na introdução. Não há um número determinado de parágrafos.
+
+C - Conclusão encerre sua discussão concluindo seu raciocínio, retomando a introdução.
+<!-- bloco colorido -->
+
+<!-- subtítulo -->A. INTRODUÇÃO<!-- subtítulo -->
+
+Ao abrir o jornal, ou ligar a tv o leitor/telespectador é bombardeado por noticias sobre corrupção e aberturas de CPIs.
+
+<!-- subtítulo -->B. DESENVOLVIMENTO<!-- subtítulo -->
+
+A cada político chamado para depor, novos nomes são acrescentados ao rol de corruptos. Estes denunciam partidários, revelando a superficialidade das relações en tre os governantes. Suas alianças duram enquanto podem se beneficiar.
+
+Propagandas de vários partidos são veiculadas com declarações de políticos e pessoas ligadas ao poder judiciário, que se abstém da ligação com os denunciados.
+
+Diante de tantas denúncias resta saber se não são os índices de corrupção que aumentaram ou se sempre existiram e estão sendo descobertos agora.
+
+Vários setores da sociedade têm feito manifestações como forma de reação frente à desordem política.
+
+Não se tem previsão de quando tudo irá terminar, pois a cada político que depõe outros suspeitos são descobertos.
+
+<!-- negrito -->Pensando nas próximas eleições: quem serão os candidatos que prometerão honestidade e ações que beneficiarão a todos, mas que serão esquecidas no primeiro ano de mandato?<!-- negrito -->
+
+<!-- subtítulo -->C. CONCLUSÃO<!-- subtítulo -->
+  As mudanças devem começar com uma melhor escolha dos candidatos pelos eleitores. Se não é possível conhecê-los antes de chegarem ao poder, pode-se, pelo me- nos, não votar naqueles que já se sabe serem corruptos.
+
+<!-- subtítulo -->ANÁLISE DA REDAÇÃO:<!-- subtítulo -->
+  Cada parágrafo apresenta ideias sem conexão com as apresentadas anteriormente. Não há desenvolvimento, aprofundamento dos aspectos apresentados nos parágrafos.
+
+<!-- itálico -->
+ Não se tem previsão de quando tudo irá terminar, pois a cada político que depõe outros suspeitos são descobertos.
+ Pensando nas próximas eleições: quem serão os candidatos que prometerão honestidade e ações que beneficiarão a todos, mas que serão esquecidas no primeiro ano de mandato?
+<!-- itálico -->
+
+<!-- cor destaque -->Outros problemas:<!-- cor destaque -->
+
+<!-- cor destaque -->CPI<!-- cor destaque --> - Comissão Parlamente de Inquéritos. Uma sigla ao ser apresentada pela primeira vez num texto deverá apresentar sua significação
+Estes - é um pronome demonstrativo que retoma o termo mais próximo dentro de uma oração ou período. Na frase este retoma corruptos e não partidários como pretendido autor do texto.
+  Perguntas feitas no decorrer do texto devem ser respondidas.
+
+<!-- cor destaque -->Modelo 2<!-- cor destaque -->
+<!-- bloco colorido -->
+<!-- cor destaque -->Tema<!-- cor destaque -->: O sistema de cotas para negros e a igualdade social. 
+<!-- cor destaque -->Titulo<!-- cor destaque -->: Cotas para negros e o estigma do beneficio.
+<!-- bloco colorido -->
+
+  O sistema de cotas apoiado pelo governo e adotado por algumas universidades federais visa a dar oportunidade para que a população negra possa ingressar no ensino superior e, a partir daí, promover a inclusão social Entretanto, existe um viés interessante contido nesta "oportunidade" concedida aos afrodescendentes, que é o que denominaremos de "estigma da incompetência".
+
+<!-- bloco colorido -->
+Observação:
+  A quantidade, a ordem em que os parágrafos com suas funções aparecem não são algo obrigatório.
+<!-- bloco colorido -->
+
+  O "estigma da incompetência" poderá surgir como forma de desconfiança da qualidade do profissional formado que foi beneficiado pelo sistema de cotas, uma vez que este será considerado, possivelmente, menos capaz por não ter competido com igualdade com os demais.
+  A dúvida relacionada à competência do profissional negro beneficiado pelas cotas se estenderá aos demais profissionais da mesma cor que conseguiram se formar sem o beneficio, o que contribuiria ainda mais para manifestações racistas que estigmatiza a população negra, considerando-a incapaz e, portanto, inferior.
+  Propostas como o sistema de cotas apenas tangencia o problema da inclusão social dos negros, sem, contudo, abordar os aspectos sociais e históricos associados à marginalização e resgate da dignidade e cidadania desta fração da população.
+
+<!-- subtítulo -->ANÁLISE DA REDAÇÃO:<!-- subtítulo -->
+  Faltou a explicação sobre o que é o sistema de cotas. Generalização das consequências da adoção do sistema de cotas
+
+<!-- itálico -->
+"A dúvida relacionada à competência do profissional negro beneficiado pelas cotas se estenderá aos demais profissionais da mesma cor que conseguiram se formar sem o beneficio, (...)"
+<!-- itálico -->
+
+<!-- subtítulo -->OBSERVAÇÃO:<!-- subtítulo -->
+
+É importante não confundir titulo com tema 
+<!-- cor destaque -->Tema<!-- cor destaque --> - é o assunto a ser tratado em seu texto 
+<!-- cor destaque -->Titulo<!-- cor destaque --> - é o nome dado ao seu texto. É importante que seu titulo seja um resumo do que será tratado.
+
+<!-- subtítulo -->DICA IMPORTANTE:<!-- subtítulo -->
+  As escrever uma redação é importante se colocar no lugar de leitor, de forma a elucidar as possíveis dúvidas e luminar as ambiguidades do texto.
+
+<!-- itálico -->
+<!-- negrito -->
+"A arte de escrever é, por essência, irreverente e tem sempre um quê de proibido: algo assim como essa tentação irresistível que leva os garotos a riscar a brancura dos muros"
+<!-- negrito -->
+<!-- itálico -->
+
+  Existem várias estruturas de textos, Veja alguns exemplos
+
+<!-- subtítulo -->A ESTRUTURA MAIS COMUM<!-- subtítulo -->
+
+<!-- cor destaque -->ESTRUTURA I<!-- cor destaque -->
+<!-- bloco colorido -->
+<!-- negrito -->Primeiro parágrafo:<!-- negrito -->
+- apresentação de pontos de vista sobre determinado assunto
+
+<!-- negrito -->Parágrafos seguintes:<!-- negrito -->
+apresentação dos pontos de vista apresentados na introdução.
+
+<!-- negrito -->Último parágrafo:<!-- negrito -->
+
+- <!-- cor destaque -->conclusão<!-- cor destaque --> com a retomada de todos os pontos e fechamento do raciocínio.
+<!-- bloco colorido -->
+
+EXEMPLO:
+
+<!-- cor destaque --><!-- itálico -->DIREITOS PARA OS ANIMAIS DE PESQUISA?<!-- itálico --><!-- cor destaque -->
+  Um grupo de 500 pesquisadores britânicos assinou esta semana um documento em favor da utilização de animais em pesquisas cientificas. O manifesto acontece em resposta à crescente articulação dos movimentos de defesa dos direitos dos animais pressionando autoridades a proibir determinados testes. Com essa briga, cientistas e ambientalistas trazem de volta uma discussão que já dura décadas, sobre até que ponto é justificável o uso de animais em pesquisas científicas
+  A grande questão da ver são as pesquisas genéticas que utilizam animais para determinar a função de um gene. Para isso, os animais são geneticamente modificados para apresentarem um gene específico, cuja expressão na idade adulta pode ser de todo tipo de doença, tu mor ou degeneração. Os ambientalistas defendem que esse tipo de estudo tem sido feito sem controle, submetendo os animais, roedores na maioria das vezes, a um sofrimento desnecessário.
+  Do seu lado, os cientistas defendem que os animais são essenciais à descoberta de drogas e tratamentos, ao desenvolvimento de procedimentos e as pesquisas de base, que permitem entender melhor a funcionamento de corpo.
+  Há pouco mais de 15 anos, essa disputa levou a Inglaterra a restringir a pesquisa com animais vivos e a controlar esses procedimentos. Segundo o órgão responsável no pais, 2,5 milhões de animais são utilizados todos os anos para pesquisas, sendo que mais de 60% desses recebem drogas para aliviar a dor ocasionada pelos estudos. Mesmo assim, os ambientalistas defendem que esses esforços são insuficientes e que as condições a que esses animais estão submetidos devem ser discutidas. No Brasil a regulação é feita pela Sociedade Brasileira de Bioética, mas não há dados sobre a utilização de animas em laboratório.
+
+<!-- itálico -->Revista Galileu.<!-- itálico --> 25/8/2013
+
+<!-- subtítulo -->A RELAÇÕES DE CAUSA E CONSEQUÊNCIA<!-- subtítulo -->
+<!-- cor destaque -->Causa<!-- cor destaque --> - motivo pelo qual surge o fato.
+<!-- cor destaque -->Consequência<!-- cor destaque --> - resultado da causa.
+
+<!-- subtítulo -->ESTRUTURA II<!-- subtítulo -->
+<!-- bloco colorido -->
+<!-- negrito -->Primeiro parágrafo:<!-- negrito -->
+ Apresentação, generalizada, do problema, de seu ponto de vista e argumentos,
+
+<!-- negrito -->Parágrafos seguintes:<!-- negrito -->
+  Desenvolvimento dos pontos de vista apresentados na introdução
+
+<!-- negrito -->Penúltimo paragrafo<!-- negrito -->
+  Desenvolvimento e discussão das causas e consequências
+
+<!-- negrito -->Último parágrafo<!-- negrito -->
+  Retomada do que foi discutido e o fechamento do raciocínio.
+<!-- bloco colorido -->
+
+EXEMPLO
+
+<!-- cor destaque --><!-- negrito -->VIOLÊNCIA URBANA<!-- negrito --><!-- cor destaque -->
+  Se a violência é urbana, pode-se concluir que uma de suas causas é o próprio espaço urbano? Os especialistas na questão afirmam que sim, nas periferias das cidades, sejam grandes, médias ou pequenas, nas quais a presença do Poder Público é fraca, o crime consegue instalar-se mais facilmente. São os chamados espaços segregados, áreas urbanas em que a infraestrutura urbana de equipamentos e serviços (saneamento básico, sistema viário, energia elétrica e iluminação pública, transporte, lazer, equipamentos culturais, segurança pública e acesso à justiça) é precária ou insuficiente, e há baixa oferta de postos de trabalho.
+  Esse e os demais fatores apontados pelos especialistas não são exclusivos do Brasil, mas ocorrem em toda a América Latina, em intensidades diferentes. Não é a pobreza que causa a violência. Se assim fosse, áreas extremamente pobres do Nordeste não apresentariam, como apresentam, índices de violência muito menores do que aqueles verificados em áreas como São Paulo, Rio de Janeiro e outras grandes cidades. E o Pais estaria completamente desestruturado, caso toda a população de baixa renda ou que está abaixo da linha de pobreza começasse a cometer crimes.
+  Outros dois fatores para o crescimento do crime são a impessoalidade das relações nas grandes metrópoles e a desestruturação familiar Esta última é causa e também efeito. É causa porque sem laços familiares fortes, a probabilidade de uma criança vir a cometer um crime na adolescência é maior. Mas a desestruturação de sua família pode ter sido iniciada pelo assassinato do pai ou da mãe, ou de ambos.
+ No entanto, alguns especialistas afirmam que essa causa deve ser vista com cautela. Desestrutura familiar, por exemplo, não quer dizer, necessariamente, ausência de pai ou de mãe, ou modelo familiar alternativo. A desestrutura tem a ver com as condições mínimas de afeto e convivência dentro da família, o que pode ocorrer em qualquer modelo familiar.
+  Também não é o desemprego. Mas o desemprego de ingresso quando o jovem procura o primeiro emprego, objetivando sua inserção no mercado formal de trabalho, e não obtém sucesso tem relação direta com o aumento da violência, porque torna o jovem mais vulnerável ao ingresso na criminalidade. Na verdade, o desemprego, ou o subemprego, mexe com a autoestima do jovem e o faz pensar em outras formas de conseguir espaço na sociedade, de ser, enfim, reconhecido.
+  Sem conseguir entrar no mercado de trabalho, recebendo um estimulo forte para o consumo, sem modelos próximos que se contraponham ao que o crime organiza do oferece (o apoio, o sentimento de pertencer a um grupo, o poder que uma arma representa, o prestigio) um individuo em formação torna-se mais vulnerável.
+  O crescimento do tráfico de drogas, por si só, é também fator relevante no aumento de crimes violentos. As taxas de homicídio, por exemplo, são elevadas pelos "acertos de conta", chacinas e outras disputas entre traficantes rivais.
+  E, ainda, outro fator que infla o número de homicídios no Brasil é a disseminação das armas de fogo, principalmente das armas leves. Discussões banais, como brigas familiares, de bar e de trânsito, terminam em assassinato porque há uma arma de fogo envolvida
+
+<!-- subtítulo -->ASSUNTOS POLEMICOS<!-- subtítulo -->
+  Quando não ser quer tomar posicionamento sobre um assunto tem-se a possibilidade de pontuar os aspectos favoráveis e não favoráveis do assunto a ser discutido.
+
+!-- cor destaque -->ESTRUTURA III<!-- cor destaque -->
+<!-- bloco colorido -->
+<!-- negrito -->Primeiro parágrafo<!-- negrito -->
+  Apresentação da polêmica e colocações quanto à dificuldade de posicionamento devido à complexidade do fato a ser tratado.
+
+<!-- negrito -->Segundo parágrafo<!-- negrito -->
+  Discussão dos aspectos favoráveis
+
+<!-- negrito -->Terceiro parágrafo<!-- negrito -->
+  Discussão dos aspectos desfavoráveis.
+
+<!-- negrito -->Quarto parágrafo<!-- negrito -->
+  Fechamento do raciocínio com explicação dos dados apresentados.
+<!-- bloco colorido -->
+
+EXEMPLO:
+
+<!-- cor destaque --><!-- negrito -->ABORTO<!-- negrito --><!-- cor destaque -->
+  O aborto é, frequentemente, apresentado como um "direito das mulheres". No entanto, ao se dizer isso se ignoram as consequências desse ato. Mas que atitude tomar em casos de gravidez como resultado de um estupro?
+  O aborto pode ser visto como algo desejável para as mulheres, e como um beneficio ao qual elas deveriam ter usto acesso quanto possível, ou seja, elas têm o direito de escolher se querem ou não ser mãe.
+  Estudos sobre mulheres que fizeram aborto, (veja, par exemplo, o livro do Dr. David Reardon, Aborted Women, Silent No More), mostram que o aborto não é uma questão de dar à mulher uma "escolha". E, tragicamente, ama situação em que as mulheres sentiram que não tinham nenhuma escolha.
+  Casos, extremos, como o estupro, torna o aborto possível, mesmo em lugares onde não é permitido por lei.
+  O fato de ser ou não legalizado não o torna certo Mas, a generalização, quanto à permissão ou proibição deve ser pesada, levando em consideração cada caso. Julgar permitir, simplesmente, não contribui em nada para quem aprova ou reprova o ato
+
+<!-- cor destaque -->ESTRUTURA IV<!-- cor destaque -->
+<!-- bloco colorido -->
+<!-- negrito -->Primeiro parágrafo<!-- negrito -->
+  Apresentação, generalizada, do tema, do ponto de vista e de seus pontos e argumentos.
+
+<!-- negrito -->Parágrafos seguintes<!-- negrito -->
+  Desenvolvimento dos argumentos apresenta dos na introdução.
+
+<!-- negrito -->Penúltimo parágrafo<!-- negrito -->
+  Retrospectiva histórica do problema
+
+<!-- negrito -->Último parágrafo<!-- negrito -->
+  Conclusão com fechamento do raciocínio
+<!-- bloco colorido -->
+
+Exemplo
+
+<!-- cor destaque --><!-- negrito -->OPERAÇÃO ABAFA<!-- negrito --><!-- cor destaque -->
+  Os sinais preocupantes de que os trabalhos das CPIs possam estar sendo deliberadamente boicotados, e de que a disputa entre as comissões, mais do que refletir uma briga de egos entre senadores e deputados, possa ser o reflexo de uma manobra dos governistas para retardar a apuração dos escândalos sem que a operação abafa seja claramente identificada pela opinião pública, esta colocando em estado de alerta organizações como a Transparência Brasil, associada à Transparência Internacional, uma organização não governamental exclusiva mente dedicada a combater a corrupção no mundo.
+  São inúmeras as indicações de que está em curso tentativa de acordo para preservar uma maioria de envolvidos nos escândalos. Em Brasília, há indícios de que as cúpulas partidárias tentam achar caminhos para amenizar punições. O deputado Roberto Jefferson, que será o primeiro a ser cassado, poderá ser o pretexto para um grande acordo. Se a acusação contra ele for de que não provou a prática do mensalão, estará dado o caminho para que a alegação de uso de caixa dois nas eleições prevaleça, em vez do desvio do dinheiro público, que ainda não foi desvendado.
+  De fato, se pegarmos exemplos de outras CPIs, veremos que a manobra governista de dividir a apuração dos escândalos em três comissões está dando resultado, se não no acobertamento dos envolvidos, pelo menos na demora das apurações. Ao delimitar a apuração da primeira CPI instalada, a dos Correios, a maioria governista forçou a oposição a lutar pela instalação de outras comissões, o que acabou dispersando as investigações.
+  Há diversos exemplos de acordos, explícitos ou tácitos, entre os partidos políticos, cada qual defendendo seu interesse. A tese do "dinheiro não contabilizado" para fins eleitorais, difundida pelo ex-tesoureiro petista Delúbio Soares, interessa tanto ao PFL, que tem um de seus principais quadros envolvidos deputado Roberto Brant quanto ao PSDB, cujo presidente nacional, senador Eduardo Azeredo, também está sendo acusado de ter se valido dos recursos do lobista Marcos Valério de Souza na eleição de Minas Gerais em 1998.
+  Acordos entre PT e PMDB e partidos aliados, para a não convocação de personagens importantes nos eventos, como o presidente do Sebrae, Paulo Okamoto, e Benedita da Silva, de um lado, e a governadora Rosinha e seu marido Garotinho, de outro, são feitos à luz do dia. 0 deputado e ex-ministro José Dirceu, peça central para a apuração de todo o esquema de corrupção montado, ainda não foi convocado. A CPI dos Correios, a mais antiga das atualmente em funcionamento, já consumiu mais de setenta dias, e nem chegou à metade das apurações.
+  A CPI do caso PC Farias, por exemplo, começou em junho de 1992 e foi declarada encerrada três meses e meio depois, tendo o relatório final sido votado em 90 dias. Bastaram 40 reuniões no período, e 22 depoimentos, para estabelecer a culpa do ex-presidente Fernando Collor de Mello. A CPI do Orçamento, que começou em outubro de 1994, terminou três meses depois, com um total de 111 reuniões, por que se reunia praticamente todos os dias, e não se limitava aos três dias da sema- na em que o Congresso normalmente funciona: terças, quartas e quintas-feiras. Ao fim da CPI, 68 pessoas foram ouvidas, entre elas 33 deputados, ao contrário de agora, quando a CPI dos Correios só ouviu Roberto Jefferson.
+  Sem falar que a moderna tecnologia que está à disposição dos senadores e deputados deveria facilitar o cruzamento de dados e as investigações. Ao contrário, até hoje não conseguiram abrir nem mesmo os disquetes enviados pelas companhias telefónicas com a quebra de sigilos de alguns dos envolvidos, com a desculpa esfarrapada de que eles não falam entre si.
+  O presidente da Transparência Brasil, Cláudio Weber Abramo, enviou carta aos presidentes das CPIs expressando preocupação em dois níveis: a origem do dinheiro e a alegação de que foi usado para fins eleitorais. Segundo Abramo, "é implausível" que o dinheiro se origine de "empresas privadas que prefeririam permanecer no anonimato". O mais provável é que os recursos *tivessem correspondido a subornos pagos pela obtenção de vantagens conseguidas em transações ilícitas com o Estado", afirma a carta da Transparência Brasil, que diz que "levantar os alimentadores de propinodutos constituiria um dos principais deveres das comissões". Quanto à alegação, que classifica de "fácil", que o dinheiro teria sido destinado a pagamento de dívidas eleitorais, "se ria minimamente exigível que os indivíduos acusados apresentassem os nomes e CNPJs das empresas fornecedoras que teriam sido beneficiárias dos pagamentos em questão", alega Abramo. Para a Transparência Brasil, "aceitar-se sem maiores questionamentos a desculpa das dividas eleitorais equivale a desistir de investigar a corrupção".
+  Equivaleria, também, lembra Abramo, aceitar "que corrupção com finalidade eleitoral seria menos grave do que outras corrupções, com a inevitável consequência da extensão, à totalidade dos políticos da pecha de corruptos - o que, decerto, seria inaceitável". A carta termina alertando que "nunca é demais frisar que os ilícitos" de que tratam as Comissões "não constituem simples "erros" ou "falhas", mas crimes".
+  A "operação abafa em curso conta também com o silêncio obsequioso da maioria dos intelectuais e com o colaboracionismo partidário de notório cientista politico que, vergonha profissional, usa seu pseudodistanciamento acadêmico para abrigar, mesmo diante de todas as evidências, a patética tese da conspiração das elites contra o operário presidente.
+<!-- itálico -->Merval Pereira<!-- itálico -->
+
+<!-- cor destaque --><!-- negrito -->O SEU TEXTO DEVERÁ OBEDECER AOS SEGUINTES ITENS:<!-- negrito --><!-- cor destaque -->
+
+<!-- cor destaque -->Informaticidade<!-- cor destaque --> - <!-- itálico -->dê ao leitor uma gama de in formações pertinentes e interessantes sobre o assunto tratado.<!-- itálico -->
+
+<!-- cor destaque -->Criticidade<!-- cor destaque --> - <!-- itálico -->além de informar, devem-se formular ideias próprias.<!-- itálico -->
+
+<!-- cor destaque -->Clareza e organização<!-- cor destaque --> - <!-- itálico -->para convencer ou informar o seu leitor sobre o assunto, as ideias de seu texto deverão estar dispostas de forma objetiva, clara e organizada.<!-- itálico -->
+
+<!-- cor destaque -->Criatividade<!-- cor destaque --> - <!-- itálico -->procure atualizar seus conheci mentos para evitar o senso comum.<!-- itálico -->
+
+<!-- cor destaque -->Coerência<!-- cor destaque --> - <!-- itálico -->as normas gramaticais devem ser res- peitadas, no entanto, o item mais importante é a coerência de suas ideias.<!-- itálico -->
+
+<!-- negrito -->O fato de praticar a leitura e a escrita The dará a possibilidade de se expressar melhor e, consequentemente, ser uma pessoa melhor.<!-- negrito -->
+
+<!-- titulo -->INTERTEXTUALIDADE<!-- titulo -->
+  A intertextualidade é a influência de um texto sobre outro ou a superposição de um texto a outro.
+
+<!-- cor destaque -->Paráfrase:<!-- cor destaque --> Reprodução de um texto com outras palavras. O autor do texto posterior deixa claras a fonte e a sua intenção.
+
+<!-- caixinha -->
+<!-- cor destaque -->Exemplo:<!-- cor destaque -->
+<!-- caixinha -->
+  "O emprego do 's no Brasil afora é muito peculiar, e quem sair à cata das várias formas em que é encontrado terminará com uma rica coleção." Roberto Pompeu de Toledo. Revista Veja, 14 de março de 2007
+  Conforme disse Roberto Pompeu de Toledo, a utilização do apóstrofo seguido de s pelos brasileiros é típica e pode ser encontrada em diversos lugares.
+
+<!-- cor destaque -->Paródia:<!-- cor destaque --> Forma de apropriação que rompe, sutil ou abertamente, com o modelo retomado, ou mesmo uma imitação cômica de uma composição literária.
+
+<!-- caixinha -->
+<!-- cor destaque -->Exemplo:<!-- cor destaque -->
+<!-- caixinha -->
+
+<!-- poema -->
+Minha terra tem palmeiras, 
+Onde canta o Sabiá;
+As aves, que aqui gorjeiam,
+Não gorjeiam como lá.
+
+Gonçalves Dias
+<!-- poema -->
+
+<!-- poema -->
+"Minha terra não tem palmeira.
+E em vez de um mero sabiá,
+Cantam aves invisíveis
+Nas palmeiras que não há."
+
+Mário Quintana
+<!-- poema -->
+
+<!-- cor destaque -->Referência ou Alusão:<!-- cor destaque --> Trata-se de mencionar ele mentos de outro texto (personagens, fatos, nomes) a fim de fazer alguma relação com o que se escreve.
+
+<!-- caixinha -->
+<!-- cor destaque -->Exemplo:<!-- cor destaque -->
+<!-- caixinha -->
+  A mulher dele não tinha ambições nem vaidade, era uma Amélia. (Alusão à canção "Ai Que Saudades da Amélia", de Ataulpho Alves/Mário Lago)
+
+<!-- cor destaque -->Citação:<!-- cor destaque --> E a transcrição de outro texto, sinalizada por aspas
+
+<!-- caixinha -->
+<!-- cor destaque -->Exemplo:<!-- cor destaque --> 
+<!-- caixinha -->
+  Aprendi de Eleanor Roosevelt: "O futuro pertence aqueles que acreditam na beleza dos seus sonhos, e de Carl Sandburg que "nada acontece a menos que sonhemos antes" FELLINUS, John. As Mais Belas Frases do Mundo São Paulo: Editora, 1998
+
+<!-- cor destaque -->Epígrafe:<!-- cor destaque --> Constitui uma escrita introdutória de outra, de forma que haja alguma relação entre a epigrafe e o texto.
+
+<!-- caixinha -->
+<!-- cor destaque -->Exemplo:<!-- cor destaque -->
+<!-- caixinha -->
+  O poema "Olhos Verdes", de Gonçalves Dias, tem a seguinte epigrafe:
+
+<!-- poema -->
+"Eles verdes são:
+E têm por usança,
+Na cor esperança.
+E nas obras, não.
+
+(Rimas, Luís Vaz de Camões.)"
+<!-- poema -->
+
+<!-- cor destaque -->Pastiche ou plágio:<!-- cor destaque --> Imitação de outra obra. Na estética clássica, isso era intencional e não tinha sentido Pejorativo como tem hoje.
+
+[imagem: Lazare Ramos interpretou a malandro "Foguinho"]
+
+  Exemplo: Em 2006, os cineastas Walter Salles e Daniela Thomas apontaram plágio na novela "Cobras & Lagartos", de João Emanuel Carneiro, porque o mocinho da nova novela seria cópia de um personagem do longa "Linha de Passe" (Folha Online)
+
+<!-- cor destaque -->Tradução:<!-- cor destaque --> Converter um texto escrito em uma linguagem em outro, escrito em linguagem diferente.
+
+<!-- caixinha -->
+<!-- cor destaque -->Exemplo:<!-- cor destaque -->
+<!-- caixinha -->
+"Só havia comido o gosto fétido de seu próprio hálito faminto, no que pareciam ter sido semanas, e, mesmo assim, nada" (Trecho do livro A <!-- itálico -->menina que roubava livros<!-- itálico -->, escrito por Markus Zusak e traduzido por Vera Ribeiro.)
+
+<!-- titulo -->COMO FAZER QUESTÕES DISCURSIVAS DE PROVASE?<!-- titulo -->
+
+<!-- cor destaque -->Analisar/Discutir:<!-- cor destaque --> Além de expor as ideias, deve-se questionar, argumentar a favor e contra e relacionar os fatos ou ideias
+
+<!-- cor destaque -->Comparar:<!-- cor destaque --> Análise simultânea de objetos, fatos e processos. Pode-se apresentar vantagens e desvantagens, semelhanças e diferenças.
+
+<!-- cor destaque -->Criticar:<!-- cor destaque --> Avaliar ideias e textos com base em critérios de julgamento e análise critica.
+
+<!-- cor destaque -->Definir:<!-- cor destaque --> Com as próprias palavras, enunciar os atributos específicos e importantes de um objeto, fato ou processo.
+
+<!-- cor destaque -->Descrever:<!-- cor destaque --> Expor as características de um objeto, fato ou processo.
+
+<!-- cor destaque -->Enumerar:<!-- cor destaque --> Exposição livre de fatos ou ideias.
+
+<!-- cor destaque -->Esquematizar:<!-- cor destaque --> Sintetizar de forma organizada em tópicos e subtópicos, enfatizando as relações entre os elementos. Também pode aparecer como "esboçar".
+
+<!-- cor destaque -->Explicar:<!-- cor destaque --> Relacionar fatos e ideias com ênfase em causa e efeito.
+
+<!-- cor destaque -->Interpretar:<!-- cor destaque --> Compreender as intenções do autor, analisando o significado do texto
+
+<!-- cor destaque -->Organizar:<!-- cor destaque --> Expor fatos ou ideias de acordo com uma estrutura (cronológica, de importância etc.)
+
+<!-- cor destaque -->Selecionar:<!-- cor destaque --> Escolher de acordo com um critério preestabelecido.
+
+<!-- cor destaque -->Sintetizar:<!-- cor destaque --> Resumir, expor o assunto de forma concisa.
+
+<!-- titulo -->A REDAÇÃO NO VESTIBULAR E EM OUTROS CONCURSOS<!-- titulo -->
+
+  Em geral, as condições de nulidade da redação são
+
+<!-- lista -->
+Fuga ao tema proposto:
+
+Não redigir o texto no gênero textual proposto; Não obedecer à proposta discorra, apresente, co
+
+mente etc.
+
+Ser contraditório
+<!-- lista -->
+
+<!-- bloco colorido -->
+<!-- lista -->
+Nunca comece uma redação com períodos longos;
+
+Basta fazer uma frase-núcleo que será a sua ideia geral a ser desenvolvidas nos parágrafos que se seguirão;
+
+Nunca coloque uma expressão que desconheça, pois o erro de ortografia e acentuação é o que mais tira pontos em uma redação;
+
+Nunca coloque hífen onde não é necessário ou separação de silabas erroneamente;
+
+Nunca use gírias na redação;
+
+Nunca esqueça dos pingos nos "is", pois bolinha não vale;
+
+Nunca coloque virgulas onde não são necessárias;
+
+Nunca comece a escrever sem estruturar o que vai passar para o papel:
+
+Tenha calma na hora de dissertar e sempre volte a frase-núcleo para orientar seus argumentos;
+
+Verifique sempre a estética: parágrafo, acentuação, vocabulário, separação silábica e pontuação;
+
+Respeite as margens de papel e procure sempre fazer uma letra constante;
+
+A letra tem que ser visível e compreensível para quem lê;
+
+Não inicie nem termine uma redação com expressões do tipo Eu acho. Parece ser... Acredito mesmo Quem sabe", pois mostram dúvidas em seus argumentos anteriores;
+
+Cuidado com derivações <!-- itálico -->criativas<!-- itálico --> como: "mesma mente;
+
+Cuidado com neologismos do tipo "imexível e "Inconstitucionalizável".
+
+Fonte: www.vestibulari.com.br
+<!-- lista -->
+<!-- bloco colorido -->
+
+[Imagem: lápis]
+
+<!-- titulo -->ESTRUTURAÇÃO E ARGUMENTATIVIDADE<!-- titulo -->
+
+<!-- bloco colorido -->
+Construir textos expositivos ou argumentativos.
+
+Estruturar adequadamente os parágrafos e distribuir as ideias nesses parágrafos.
+
+Ler e interpretar os textos motivadores Propor um tema de acordo com a situação escolhida.
+<!-- lista -->
+<!-- bloco colorido -->
+
+<!-- lista -->
+Utilizar, na redação, as informações apresentadas os textos motivadores (Atenção as informações não podem ser copiadas. É necessário, no mínimo, parafraseá-las)
+
+Dar um titulo à redação, de acordo com a que foi desenvolvido.
+
+Redigir o texto, concentrando-se na situação escolhida.
+
+Apresentar ideias consistentes.
+
+Utilizar argumentos relevantes para o ponto de vista defendido.
+<!-- lista -->
+
+<!-- titulo -->PROGRESSÃO, INFORMATIVIDADE E SITUACIONALIDADE (P.I.S.)<!-- titulo -->
+
+<!-- lista -->
+Acrescentar novas informações para que o texto progrida.
+
+Apresentar dados suficientes para a interpretação do texto.
+
+Construir a redação de forma a não exigir do leitor informações externas ao texto.
+
+Utilizar a norma padrão.
+
+Utilizar vocabulário adequado
+<!-- lista -->
+
+  Manual do Candidato Universidade Federal de Uberlândia-MG (UFU)
+
+  Foram divulgadas no site do Enem quatro "Redações Nota 10", textos de alunos que teriam cumprido o que i espera de um aluno que esteja concluindo o Ensino Médio Veja uma delas
+
+<!-- cor destaque -->QUADRO NEGRO<!-- cor destaque -->
+
+  Se para Monteiro Lobato um pais se faz de homens e livros, para os governantes diferente não poderia ser. O papel da leitura na formação de um individuo é de no tória importância. Basta-nos observar a relevância da escrita até mesmo na marcação histórica do homem, que destaca, por tal motivo, a pré-história.
+  Em uma esfera mais prática, pode-se perceber que nenhum grande pensador fez-se uma exceção e não deixou seu legado através da escrita, dos seus livros, das anotações. Exemplos não são escassos: de Aristóteles a Nietzsche, de Newton a Ohm, sejam pergaminhos fossilizados ou produções da imprensa de Gutenberg, muito devemos a esses escritos. Desta forma, iniciarmos o nosso processo de transformação adquirindo tamanha produção intelectual que nos é disponibilizada.
+  A aquisição de ideias pelo ser humano apresenta um grande efeito colateral: a reflexão. A leitura é capaz de nos oferecer o poder de questionar, sendo a mesma frequente em nossas vidas. Outrossim, é impossível que a nossa visão do mundo ao redor não se modifique com essa capacidade adquirida.
+  Embora a questão e a dúvida sejam de extrema importância a um ser pensante, precisam ter um curto prazo de validade. A necessidade de resposta nos é intrínseca e gera novas ideias, fechando, assim, um circulo vicioso, o qual nos integra e nunca terminamos de transformar e sermos transformados.
+  A leitura é a base para o desenvolvimento e a integração na sociedade e na vida, porquanto viver não é apenas respirar. Se Descartes estiver certo, é preciso pensar. Pensando, poderemos mudar o quadro negro do pais e construir o Brasil de Monteiro Lobato: quadro negro apenas na sala de aula, repleto de ideias, pensamentos, autores, repleto de transformação e de vida.
+
+<!-- titulo -->RASCUNHO<!-- titulo -->
+
+  Antes de fazer o rascunho, é interessante fazer um esquema sobre o assunto que você abordará no texto, principalmente no que se refere à argumentação.
+  O rascunho é uma redação provisória que permite a reorganização de frases e período, substituição de palavras, eliminação de trechos repetitivos e ideias incoerentes. Você pode usar abreviações e não precisa se preocupar com a letra.
+  Leia várias vezes o rascunho, como se você fosse um corretor, com criticidade. Faça todas as alterações necessárias. Na hora de passar a limpo, tenha atenção para a apresentação de seu texto definitivo, não use abreviações, não faça rasuras e escreva com letra legível.
+
+<!-- cor destaque -->OS DEZ ERROS MAIS GRAVES<!-- cor destaque -->
+
+  Alguns erros revelam maior desconhecimento da língua que outras. Os der abaixo estão nessa situação.
+
+1. Quando estiver voltado da Europa. Nunca confunda tiver e tivesse com estiver e estivesse. Assim: Quando tiver voltado da Europa/Quando estiver satis feito. / Se tivesse saído mais cedo / Se estivesse em condições.
+
+2- Que "seje" feliz. O subjuntivo de ser e estar è seja e esteja: Que seja feliz./Que esteja (e nunca "esteje") alerta.
+
+3-Ele é "de menor". O de não existe Ele é menor.
+
+4 A gente "Tomos" embora Concordância normal. A gente foi embora E também. O pessoal chegou (e nunca "chegaram) / A turma falou.
+
+5- De "formas que. Locuções desse tipo não têm s. De forma que, de maneira que, de modo que etc.
+
+6-Fiquei fora de "si". Os pronomes combinam entre si Fiquei fora de mim. / Ele ficou fora de si / Ficamos fora de nós / Ficaram fora de si.
+
+7- Acredito "de" que. Não use o de antes de qualquer que: Acredito que, penso que, julgo que, disse que, revelou que, creio que, espero que etc.
+
+8 Fale alto porque ele "houve" mal. A confusão está-se tornando muito comum. O certo é: Fale alto porque ele ouve mal. Houve é forma de haver: Houve muita chuva esta semana.
+
+9- Ela veio, "mais" você, não. E mas, conjunção, que indica ressalva, restrição: Ela veio, mas você, não.
+
+10-Fale sem "exitar" Escreva certo: hesitar. Veja outros erros de grafia e entre parénteses a forma correta: "areoporto" (aeroporto), "metereologia" (meteorologia), "deiche" (deixe), enchergar (enxergar), "exiga" (exija). E nunca troque menos por "menas", verdadeiro absurdo linguístico.
+
+Manual de Redação e Estilo de Jornal "O Estado de São Paulo
