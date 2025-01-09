@@ -57,6 +57,11 @@ aside.texto{
     text-align: justify;
 }
 
+aside.bloco{
+    justify-items: center;
+    width: 500px;
+}
+
 p{
     text-indent: 20px;
 }
@@ -79,7 +84,7 @@ ul > li{
 }
 
 div.bloco-colorido{
-    background-color: rgba(194, 248, 112, 0.819);
+    background-color: rgba(194, 248, 112, 0.577);
 }
 
 div.tarja-colorido{
@@ -133,13 +138,14 @@ div#bc1{
     margin: 10px;
     padding: 10px;
     width: 500px;
-
+    box-shadow: inset 1px 2px 15px 1px rgb(0, 0, 0, 0.478);
 }
 
 div#bc2{
     margin: 10px;
     width: 500px;
     padding: 10px;
+    box-shadow: inset 1px 2px 15px 1px rgb(0, 0, 0, 0.478);
 }
 
 div#bc3{
@@ -148,7 +154,11 @@ div#bc3{
     padding: 5px;
 }
 
-div.estilo-poema2{
+div#estrutura{
+    width: 400px;
+}
+
+div.colunas{
     display: flex;
     justify-content: center;
     padding: 5px;
@@ -187,7 +197,7 @@ div#bc5{
     align-items: center;
 }
 
-div.tb1{
+div.tb{
     display: flex;
     justify-content: center;
 }
@@ -195,6 +205,14 @@ div.tb1{
 table#tb1{
     width: 600px;
     padding: 5px;
+}
+
+table#tb2{
+    width: 400px;
+}
+
+table#tb3{
+    width: 900px;
 }
 
 table#tb1 > caption{
@@ -211,7 +229,7 @@ thead.th1{
 }
 
 table > tbody.corpo > tr:nth-child(2n){
-    background-color: lightgreen;
+    background-color: rgb(144, 243, 144);
 }
 
 table > tbody.corpo > tr:nth-child(odd){
@@ -223,6 +241,3 @@ td.td2{
     padding: 8px;
 }
 
-table#tb2{
-    width: 400px;
-}
