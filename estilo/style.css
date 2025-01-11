@@ -232,9 +232,9 @@ div.bloco-citacao{
 }
 
 div.bloco-italico{
-    width: 400px;
+    width: 300px;
     padding: 5px;
-    margin: 9px;
+    margin: 5px;
 }
 
 div#bc4{
@@ -274,7 +274,8 @@ table#tb2{
 }
 
 table#tb3{
-    width: 600px;
+    width: auto;
+    height: auto;
 }
 
 table#tb1 > caption{
